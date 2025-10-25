@@ -1,0 +1,16 @@
+# Core dependencies
+gradio>=4.0.0
+opencv-python-headless>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# OCR and Face Recognition
+easyocr>=1.7.0
+deepface>=0.0.79
+tf-keras>=2.15.0
+
+# Utilities
+regex>=2023.10.0
+
+
+tensorflow>=2.15.0  
