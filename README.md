@@ -16,8 +16,8 @@ Automates customer onboarding with document OCR, facial recognition, and fraud d
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/kyc-verification-agent.git
-cd kyc-verification-agent
+git clone https://github.com/shruteeegrg/kyc-verification-agent.git
+
 
 # Create virtual environment (recommended)
 python -m venv venv
@@ -32,7 +32,7 @@ python src/app.py
 
 ### Method 2: Google Colab (Recommended for Testing)
 
-1. Open the Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/kyc-verification-agent/blob/main/notebooks/demo.ipynb)
+1. Open the Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shruteeegrg/kyc-verification-agent/blob/main/notebooks/kyc_agent.ipynb)
 
 2. Run the installation cell:
 ```python
@@ -87,10 +87,7 @@ kyc-verification-agent/
 ├── src/
 │   ├── kyc_agent.py      # Main KYC logic
 │   ├── app.py            # Gradio interface
-│   └── utils.py          # Helper functions
-├── tests/                # Unit tests
-├── docs/                 # Documentation
-├── examples/             # Sample files
+│   └── utils.py          # Helper functions          
 └── notebooks/            # Colab demos
 ```
 
