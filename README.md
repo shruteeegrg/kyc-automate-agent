@@ -32,7 +32,7 @@ python src/app.py
 
 ### Method 2: Google Colab (Recommended for Testing)
 
-1. Open the Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shruteeegrg/kyc-verification-agent/blob/main/notebooks/kyc_agent.ipynb)
+1. Open the Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shruteeegrg/kyc-verification-agent/blob/main/notebooks/KYC_Agent.ipynb)
 
 2. Run the installation cell:
 ```python
